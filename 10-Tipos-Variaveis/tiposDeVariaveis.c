@@ -6,7 +6,7 @@
 
     // permite usar acentos
     setlocale(LC_ALL, "");
-    printf("\nOlá Mundo doido dos binarios!\nn");
+    printf("\nOlá Mundo doido dos binarios!\n\n");
 
     return 0;
 }
@@ -16,7 +16,7 @@ main(void){
 
     // permite usar acentos
     setlocale(LC_ALL, "");
-    printf("\nOlá Mundo doido dos binarios!\nn");
+    printf("\nOlá Mundo doido dos binarios!\n\n");
    
 }
  
